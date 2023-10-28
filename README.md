@@ -1,6 +1,13 @@
 # jarabot
 ## jarabot
 
+# YDLidar-SDI 설치(home에서)
+git clone https://github.com/YDLIDAR/YDLidar-SDK.git
+cd YDLidar-SDK
+mkdir build && cd build
+cmake ..
+make && sudo make install
+
 ```bash
 # ~/.bashrc에 source /opt/ros/humble/setup.bash 확인
 sudo apt purge brltty
