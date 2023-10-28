@@ -2,6 +2,7 @@
 ## jarabot
 
 ```
+#YDLidar-SDK 설치 및 빌드(home에서)
 git clone https://github.com/YDLIDAR/YDLidar-SDK.git
 cd YDLidar-SDK
 mkdir build && cd build
