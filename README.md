@@ -25,8 +25,10 @@ echo -e "\nexport ROS_DOMAIN_ID=<원하는 ID>" >> ~/.bashrc
 
 mkdir -p ~/ros2_ws/src
 cd ~/ros2_ws/src
-git clone https://github.com/Slamtec/sllidar_ros2.git
-git clone https://github.com/jarabot/jarabot.git
+git clone https://github.com/firstbot1/ydlidar_ros2_driver   #for ydlidar X4-pro
+git clone https://github.com/firstbot1/jarabot               #for ydlidar X4-pro
+#git clone https://github.com/Slamtec/sllidar_ros2.git        #for rplidar A1M8
+#git clone https://github.com/jarabot/jarabot.git             #for rplidar A1M8 
 cd ~/ros2_ws
 colcon build --symlink-install
 
