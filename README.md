@@ -1,7 +1,7 @@
 # jarabot
 ## jarabot
 
-# YDLidar-SDI 설치(home에서)
+
 git clone https://github.com/YDLIDAR/YDLidar-SDK.git
 cd YDLidar-SDK
 mkdir build && cd build
