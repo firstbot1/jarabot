@@ -65,7 +65,6 @@ rviz2 -d ~/ros2_ws/src/jarabot/jarabot_navigation2/rviz/jarabot_navigation2.rviz
 
 ![Jarabot](https://github.com/firstbot1/jarabot/raw/main/jarabot.PNG)
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/firstbot1/jarabot/raw/main/jarabot%20navi.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Jarabot](https://github.com/firstbot1/jarabot/raw/main/jarabot_edu00.PNG)
+
+![Jarabot](https://github.com/firstbot1/jarabot/raw/main/jarabot_edu01.PNG)
