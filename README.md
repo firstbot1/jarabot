@@ -62,6 +62,7 @@ rviz2 -d ~/ros2_ws/src/jarabot/jarabot_cartographer/rviz/jarabot_cartographer.rv
 ros2 launch jarabot_node navigate.launch.py map:=$HOME/map.yaml # 절대경로 사용 필수
 rviz2 -d ~/ros2_ws/src/jarabot/jarabot_navigation2/rviz/jarabot_navigation2.rviz
 ```
+![Jarabot](https://github.com/firstbot1/jarabot/raw/main/assembly.PNG)
 
 ![Jarabot](https://github.com/firstbot1/jarabot/raw/main/jarabot.PNG)
 
