@@ -1,7 +1,7 @@
-#include <SoftwareSerial.h>
-int rxPin = 11;  // RX
-int txPin = 12; // TX
-SoftwareSerial mySerial(rxPin, txPin); // 소프트웨어 시리얼 객체 생성
+//include <SoftwareSerial.h>
+//int rxPin = 11;  // RX
+//int txPin = 12; // TX
+//SoftwareSerial mySerial(rxPin, txPin); // 소프트웨어 시리얼 객체 생성
 
 #define MotL_WCnt_pin 2  //FS-Brown
 #define MotR_WCnt_pin 3  //FS-Brown
@@ -33,7 +33,7 @@ int wl_cntR = 0;
 
 void setup() {
   
-  mySerial.begin(57600);
+  //mySerial.begin(57600);
   Serial.begin(57600);
 
   pinMode(MotL_WCnt_pin,INPUT_PULLUP);
