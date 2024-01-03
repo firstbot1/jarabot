@@ -75,7 +75,7 @@ sudo reboot
 ifconfig
 ```
 
-<img src="/home/firstbit/ROS2STUDY/exercise/pic/ifconfig.png" alt="이미지 대체 텍스트" style="float: left;">
+<img src="https://github.com/firstbot1/jarabot/blob/main/exercise/pic/ifconfig.png" alt="이미지 대체 텍스트" style="float: left;">
 
 - RPi의 IP를 기록해 두었다가 PC에서 RPi에 기록한 IP를 사용하여 연결하기
 
@@ -149,7 +149,7 @@ sudo udevadm trigger
 ls /dev/my*
 ```
 
-<img src="/home/firstbit/ROS2STUDY/exercise/pic/udev.png" alt="이미지 대체 텍스트" style="float: left;">
+<img src="https://github.com/firstbot1/jarabot/blob/main/exercise/pic/udev.png" alt="이미지 대체 텍스트" style="float: left;">
 
 만약 위와 같이  장치를 인식하지 못했다면 권한설정 변경
 
@@ -337,8 +337,7 @@ sudo reboot
 ssh jarabot@172.30.1.15
 ```
 
-<img src="/home/firstbit/ROS2STUDY/exercise/pic/ssh.png" alt="이미지 대체 텍스트" style="float: left;">
-
+<img src="https://github.com/firstbot1/jarabot/blob/main/exercise/pic/ssh.png" alt="이미지 대체 텍스트" style="float: left;">
 
 
 
@@ -391,8 +390,7 @@ source install/setup.bash
 rviz2 -d ~/ros2_ws/src/jarabot/jarabot_cartographer/rviz/jarabot_cartographer.rviz #local pc 에서 실행
 ```
 
-<img src="/home/firstbit/ROS2STUDY/exercise/pic/slam.png" alt="이미지 대체 텍스트" style="float: left;">
-
+<img src="https://github.com/firstbot1/jarabot/blob/main/exercise/pic/slam.png" alt="이미지 대체 텍스트" style="float: left;">
 
 
 ### 4.5 지도 저장
@@ -441,7 +439,8 @@ rviz2 -d ~/ros2_ws/src/jarabot/jarabot_navigation2/rviz/jarabot_navigation2.rviz
 ros2 run rviz2 rviz2 ~/ros2_ws/src/jarabot/jarabot_navigation2/rviz/jarabot_navigation2.rviz
 ```
 
-<img src="/home/firstbit/ROS2STUDY/exercise/pic/navi.png" alt="이미지 대체 텍스트" style="float: left;">
+<img src="https://github.com/firstbot1/jarabot/blob/main/exercise/pic/navi.png" alt="이미지 대체 텍스트" style="float: left;">
+
 
 #### 5.3.1 2D Pose Estimate 수행
 
@@ -482,15 +481,15 @@ RViz2에서 "2D Nav Goal" 기능은 로봇에게 특정 목적지까지 이동�
   - passwd 입력(ex : jarabot)
 - Visual Studio Code에서 파일 열기
 
-<img src="/home/firstbit/ROS2STUDY/exercise/pic/vc01.png" alt="이미지 대체 텍스트" style="float: left;">
+<img src="https://github.com/firstbot1/jarabot/blob/main/exercise/pic/vc01.png" alt="이미지 대체 텍스트" style="float: left;">
 
 아래의 버튼을 눌러 RPI와 원격접속
 
-<img src="/home/firstbit/ROS2STUDY/exercise/pic/VC02.png" alt="이미지 대체 텍스트" style="float: left;">
+<img src="https://github.com/firstbot1/jarabot/blob/main/exercise/pic/vc02.png" alt="이미지 대체 텍스트" style="float: left;">
 
 RPI의 폴더를 선택하여 코드 개발이나 수정
 
-<img src="/home/firstbit/ROS2STUDY/exercise/pic/VC03.png" alt="이미지 대체 텍스트" style="float: left;">
+<img src="https://github.com/firstbot1/jarabot/blob/main/exercise/pic/vc03.png" alt="이미지 대체 텍스트" style="float: left;">
 
 
 
@@ -500,4 +499,4 @@ RPI의 폴더를 선택하여 코드 개발이나 수정
 
   
 
-<img src="/home/firstbit/ROS2STUDY/exercise/pic/assembly.png" alt="이미지 대체 텍스트" style="float: left;">
+<img src="https://github.com/firstbot1/jarabot/blob/main/exercise/pic/assembly.png" alt="이미지 대체 텍스트" style="float: left;">
