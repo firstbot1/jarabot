@@ -28,8 +28,7 @@
 
 * 원형 자라봇의 Wheel Diameter는  220mm, 사각 자라봇의 Wheel diameter는180mm임
 
-<img src="/home/firstbit/ROS2STUDY/exercise/pic/odom_param.png" alt="이미지 대체 텍스트" style="float: left;">
-
+<img src="https://github.com/firstbot1/jarabot/blob/main/exercise/pic/odom_param.png" alt="이미지 대체 텍스트" style="float: left;">
 
 
 ## 1. SW 설치
