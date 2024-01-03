@@ -485,11 +485,11 @@ RViz2에서 "2D Nav Goal" 기능은 로봇에게 특정 목적지까지 이동�
 
 아래의 버튼을 눌러 RPI와 원격접속
 
-<img src="https://github.com/firstbot1/jarabot/blob/main/exercise/pic/vc02.png" alt="이미지 대체 텍스트" style="float: left;">
+<img src="https://github.com/firstbot1/jarabot/blob/main/exercise/pic/VC02.png" alt="이미지 대체 텍스트" style="float: left;">
 
 RPI의 폴더를 선택하여 코드 개발이나 수정
 
-<img src="https://github.com/firstbot1/jarabot/blob/main/exercise/pic/vc03.png" alt="이미지 대체 텍스트" style="float: left;">
+<img src="https://github.com/firstbot1/jarabot/blob/main/exercise/pic/VC03.png" alt="이미지 대체 텍스트" style="float: left;">
 
 
 
