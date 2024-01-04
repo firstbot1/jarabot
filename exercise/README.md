@@ -184,8 +184,8 @@ ROS_DOMAIN_ID 환경 변수는 ROS 2 네트워크에서 서로 다른 ROS 2 시�
 ```
 #export ROS_LOCALHOST_ONLY=1 이부분은 코멘트처리하기
 
-#~/.bashrc 파일에 맨 아래에 추가 ID 값은 각 조별로 1~10까지 설정
-export export ROS_DOMAIN_ID=2
+#~/.bashrc 파일에 맨 아래에 추가 ID 값은 각 조별로 1~232까지 설정
+export export ROS_DOMAIN_ID=3
 ```
 
 nano ~/.bashrc 로 확인가능.
