@@ -36,6 +36,10 @@ sudo cp ~/ros2_ws/src/jarabot/jarabot_node/rule/99-jarabot.rules /etc/udev/rules
 sudo udevadm control --reload-rules
 sudo udevadm trigger
 
+sudo apt install git  
+sudo apt install net-tools # ifconfg  명령 사용 가능
+sudo apt install openssh-server  #ssh 접속 가능****
+
 sudo ufw enable
 sudo ufw allow 1:65535/tcp
 sudo ufw allow 1:65535/udp
